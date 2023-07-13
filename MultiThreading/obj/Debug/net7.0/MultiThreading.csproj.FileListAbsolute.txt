@@ -1,0 +1,15 @@
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\bin\Debug\net7.0\MultiThreading.exe
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\bin\Debug\net7.0\MultiThreading.deps.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\bin\Debug\net7.0\MultiThreading.runtimeconfig.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\bin\Debug\net7.0\MultiThreading.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\bin\Debug\net7.0\MultiThreading.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.AssemblyInfo.cs
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\refint\MultiThreading.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\MultiThreading.genruntimeconfig.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\MultiThreading\obj\Debug\net7.0\ref\MultiThreading.dll

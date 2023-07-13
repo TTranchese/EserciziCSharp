@@ -1,0 +1,15 @@
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.AssemblyInfo.cs
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\bin\Debug\net7.0\CorseCavalliAsyncAwait.exe
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\bin\Debug\net7.0\CorseCavalliAsyncAwait.deps.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\bin\Debug\net7.0\CorseCavalliAsyncAwait.runtimeconfig.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\bin\Debug\net7.0\CorseCavalliAsyncAwait.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\bin\Debug\net7.0\CorseCavalliAsyncAwait.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\refint\CorseCavalliAsyncAwait.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\CorseCavalliAsyncAwait.genruntimeconfig.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorseCavalliAsyncAwait\obj\Debug\net7.0\ref\CorseCavalliAsyncAwait.dll

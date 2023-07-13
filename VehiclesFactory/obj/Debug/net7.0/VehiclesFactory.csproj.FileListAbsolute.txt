@@ -1,0 +1,15 @@
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\bin\Debug\net7.0\VehiclesFactory.exe
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\bin\Debug\net7.0\VehiclesFactory.deps.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\bin\Debug\net7.0\VehiclesFactory.runtimeconfig.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\bin\Debug\net7.0\VehiclesFactory.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\bin\Debug\net7.0\VehiclesFactory.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.csproj.AssemblyReference.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.AssemblyInfoInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.AssemblyInfo.cs
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\refint\VehiclesFactory.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\VehiclesFactory.genruntimeconfig.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\VehiclesFactory\obj\Debug\net7.0\ref\VehiclesFactory.dll

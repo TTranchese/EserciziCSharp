@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page - Converter";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Converter</h1>
+    <form asp-action="Index" method="post">
+        Fahrenheit: <input type="text" name="Celsius" /><br />
+        <input type="submit" value="Submit"/>
+    </form>
+    <p>La temperatura in Celsius e': @ViewBag.F</p>
+</div>  

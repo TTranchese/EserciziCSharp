@@ -1,0 +1,15 @@
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\bin\Debug\net7.0\ConcessionarioPatternDecorator.exe
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\bin\Debug\net7.0\ConcessionarioPatternDecorator.deps.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\bin\Debug\net7.0\ConcessionarioPatternDecorator.runtimeconfig.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\bin\Debug\net7.0\ConcessionarioPatternDecorator.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\bin\Debug\net7.0\ConcessionarioPatternDecorator.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.csproj.AssemblyReference.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.AssemblyInfoInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.AssemblyInfo.cs
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\refint\ConcessionarioPatternDecorator.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ConcessionarioPatternDecorator.genruntimeconfig.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\ConcessionarioPatternDecorator\obj\Debug\net7.0\ref\ConcessionarioPatternDecorator.dll

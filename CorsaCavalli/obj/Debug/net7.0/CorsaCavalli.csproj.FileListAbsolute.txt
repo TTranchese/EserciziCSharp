@@ -1,0 +1,15 @@
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\bin\Debug\net7.0\CorsaCavalli.exe
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\bin\Debug\net7.0\CorsaCavalli.deps.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\bin\Debug\net7.0\CorsaCavalli.runtimeconfig.json
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\bin\Debug\net7.0\CorsaCavalli.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\bin\Debug\net7.0\CorsaCavalli.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.csproj.AssemblyReference.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.AssemblyInfoInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.AssemblyInfo.cs
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\refint\CorsaCavalli.dll
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.pdb
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\CorsaCavalli.genruntimeconfig.cache
+C:\Users\Tommaso\RiderProjects\MultiThreading\CorsaCavalli\obj\Debug\net7.0\ref\CorsaCavalli.dll
