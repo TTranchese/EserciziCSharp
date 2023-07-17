@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\DecoratorPattern\\DecoratorPattern.csproj": {}
+    "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\DecoratorPattern\\DecoratorPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\DecoratorPattern\\DecoratorPattern.csproj": {
+    "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\DecoratorPattern\\DecoratorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\DecoratorPattern\\DecoratorPattern.csproj",
+        "projectUniqueName": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\DecoratorPattern\\DecoratorPattern.csproj",
         "projectName": "DecoratorPattern",
-        "projectPath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\DecoratorPattern\\DecoratorPattern.csproj",
-        "packagesPath": "C:\\Users\\Tommaso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\DecoratorPattern\\obj\\",
+        "projectPath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\DecoratorPattern\\DecoratorPattern.csproj",
+        "packagesPath": "C:\\Users\\tomma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\DecoratorPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tommaso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tomma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

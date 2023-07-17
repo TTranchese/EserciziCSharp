@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPcBNrPYWDaVPknqJySbMu16qc6s/tdKqM5fH71A14Bq0+2tEGRUgEksPtGppUDEoLH9uOUwNWZa6+y3BRDzjw==",
+  "dgSpecHash": "MC77UnXATYzfOz2nqU9WxNxAVit0mIA1rAoKk6hwHA7ibX3AfoEp0EDaPsZQGN9nFY9zvLVil6QWXP19gQfWPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\FactoryPattern\\FactoryPattern.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\FactoryPattern\\FactoryPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
