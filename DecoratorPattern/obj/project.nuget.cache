@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RPpZytVt2tD2Xs6zYzuYWSZ/0s9Czhc3hkaUWDLbERuo2rEIjbnVNWfqfG6oWaHXSCcG9uc9eksqniKgyO+k+w==",
+  "dgSpecHash": "693UOT+i/e0MCVNCoPC263t8vjgqztIqV+DtHybQYPWbLMZZ+6O2wGQveJuFNni34d4oZY07rFU88B3jiOWSTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

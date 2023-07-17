@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3hKybdTAQm8zE2UWpfySxBtI1hst30t1ug6VIi6VYVMnP9T/KC1gu+9yVSHlnCvJzyZka8rqG5tKJTFvXy6YWg==",
+  "dgSpecHash": "YexZr0OpeB0+1n4gnltI/pDnDCeA3H2/jEVoNuMdQr+VVR0LggN4ABKAfXDgRNVx2qV5DKXrjh2oD+PaeHwrIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\ConverterMVC\\ConverterMVC.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\ConverterMVC\\ConverterMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

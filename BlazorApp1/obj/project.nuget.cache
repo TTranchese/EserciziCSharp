@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e2F3BQLcUC7HGKSQ0A8dhuhIDfCrWIJJv8CoPCyxU/qKGp9YP/Jx5QcMCCMtNJ73ZMkPUf3WW0Le6s4DTiVzCw==",
+  "dgSpecHash": "wXZpL/T9RIOI2GA9dOAzMha5ejKH0kkSSl5xggPZN7h5EgLoE5dCT/b5bqkNi7PAxbW4OdIAovyoCUUXO1yvIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

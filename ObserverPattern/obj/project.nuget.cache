@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ORM7Cy7pXD1cXHAip+xWjPo9lOofSHoto9twLIuzY7re66shl0ZKd4UIVbR1ZgbFnv08IgXaWax7gDFzWXpFjw==",
+  "dgSpecHash": "3LZAnvN5WhdrcfM3aRl4TwoluEy/fOVtJrRcbxRm3G2ZE3XKQ8J/y+UZP/vRYDgYQ5+k7RagHeyZWc/mhaVqPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\ObserverPattern\\ObserverPattern.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\ObserverPattern\\ObserverPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

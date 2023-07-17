@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ydpV359f7qYTrxDumrJBnIyIQ6rxiv5TKjHDxLEKPx+NkGsOOgtjO+CgVxJeqr37IRZcL4UZCrltStJWDCWnQ==",
+  "dgSpecHash": "x5YdsWwef5iIEzm5iopz5PZVkNrucrVwxqYqzyxJnmHANBhY6Gtlu/078CggK94LQYkZKEXMI2m026N5KMsB0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\ConcessionarioPatternDecorator\\ConcessionarioPatternDecorator.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\ConcessionarioPatternDecorator\\ConcessionarioPatternDecorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

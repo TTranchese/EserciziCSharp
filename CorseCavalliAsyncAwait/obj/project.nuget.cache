@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qQNznHSGYT52L0LOoaXdApV2rjEMhVQBf8QMPyNe7wdUVwE7aWcb6TRm4yDx/yZGzm1ktLNV1wmvvyfYaDG72Q==",
+  "dgSpecHash": "jtz680k1DSwhTVtpqpJwcOlwbHmWPbPH6MBsF4vaC5/oIxZCyf6vE/yprtyfbetU/xF5rQWgrZ8RSKVdNBeR3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tommaso\\RiderProjects\\MultiThreading\\CorseCavalliAsyncAwait\\CorseCavalliAsyncAwait.csproj",
+  "projectFilePath": "C:\\Users\\tomma\\RiderProjects\\EserciziCSharp\\CorseCavalliAsyncAwait\\CorseCavalliAsyncAwait.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
