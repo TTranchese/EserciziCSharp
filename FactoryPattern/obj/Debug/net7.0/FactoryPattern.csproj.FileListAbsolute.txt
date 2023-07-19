@@ -1,0 +1,15 @@
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\bin\Debug\net7.0\FactoryPattern.exe
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\bin\Debug\net7.0\FactoryPattern.deps.json
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\bin\Debug\net7.0\FactoryPattern.runtimeconfig.json
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\bin\Debug\net7.0\FactoryPattern.dll
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\bin\Debug\net7.0\FactoryPattern.pdb
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.dll
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\refint\FactoryPattern.dll
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.pdb
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\FactoryPattern.genruntimeconfig.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\FactoryPattern\obj\Debug\net7.0\ref\FactoryPattern.dll

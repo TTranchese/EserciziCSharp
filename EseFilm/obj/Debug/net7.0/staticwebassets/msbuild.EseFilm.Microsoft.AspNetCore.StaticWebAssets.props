@@ -64,6 +64,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\immagini\715c53ac-bed8-48f1-9347-1ccb64bedd63_Artwork0520_NB.webp))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\immagini\afbc1daf-b3d8-410a-8f26-9cb55aca8d39_Artwork0520_NB.webp))">
+      <SourceType>Package</SourceType>
+      <SourceId>EseFilm</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/EseFilm</BasePath>
+      <RelativePath>immagini/afbc1daf-b3d8-410a-8f26-9cb55aca8d39_Artwork0520_NB.webp</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\immagini\afbc1daf-b3d8-410a-8f26-9cb55aca8d39_Artwork0520_NB.webp))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\immagini\b1fd2803-8c60-40c6-ba9f-1f836996dbf0_cvPhoto.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>EseFilm</SourceId>

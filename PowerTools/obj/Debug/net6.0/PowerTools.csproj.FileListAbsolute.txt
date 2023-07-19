@@ -1,0 +1,15 @@
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\bin\Debug\net6.0\PowerTools.exe
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\bin\Debug\net6.0\PowerTools.deps.json
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\bin\Debug\net6.0\PowerTools.runtimeconfig.json
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\bin\Debug\net6.0\PowerTools.dll
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\bin\Debug\net6.0\PowerTools.pdb
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.csproj.AssemblyReference.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.AssemblyInfoInputs.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.AssemblyInfo.cs
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.csproj.CoreCompileInputs.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.dll
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\refint\PowerTools.dll
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.pdb
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\PowerTools.genruntimeconfig.cache
+C:\Users\tomma\RiderProjects\EserciziCSharp\PowerTools\obj\Debug\net6.0\ref\PowerTools.dll
